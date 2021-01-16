@@ -4,7 +4,7 @@ terraform {
     organization = "elasticacademy"
  
     workspaces {
-      name = "tfcloud-gcp"
+      name = "tftest"
     }
   }
 }
